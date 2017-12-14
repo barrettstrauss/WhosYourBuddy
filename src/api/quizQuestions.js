@@ -76,6 +76,78 @@ var quizQuestions = [
 
       ]
   },
+    {
+      question: "A body of water with fish in it is called:",
+      answers: [
+          {
+              type: "Joey",
+              content: "Tank"
+          },
+          {
+              type: "Mack",
+              content: "Pond"
+          },
+          {
+              type: "Sarah",
+              content: "How big is the body of water?"
+          },
+          {
+              type:'Brett',
+              content:'Lake'
+          }
+      ]
+  },
+  
+  {
+    question: "What is your favorite color?",
+    answers: [
+        {
+            type: "Joey",
+            content: "Green"
+        },
+        {
+            type: "Mack",
+            content: "Blue"
+        },
+        {
+            type: "Sarah",
+            content: "Black"
+        },
+        {
+            type: "Brett",
+            content: "Purple"
+        },
+        {
+            type: "Becca",
+            content: "Other"
+        },
+    ]
+},
+{
+    question: "If you had headphones on, should people come up and talk to you?",
+    answers: [
+        {
+            type: "Joey",
+            content: "I don't wear headphones."
+        },
+        {
+            type: "Mack",
+            content: "Sure, I don't care"
+        },
+        {
+            type: "Sarah",
+            content: "Absoutly not."
+        },
+        {
+            type: "Brett",
+            content: "If I really need to save the day"
+        },
+        {
+            type: "Becca",
+            content: "I would rather them not..."
+        },
+    ]
+},
 ];
 
 export default quizQuestions;
