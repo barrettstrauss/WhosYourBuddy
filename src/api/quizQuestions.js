@@ -41,7 +41,7 @@ var quizQuestions = [
           },
           {
             type: "Brett",
-            content: "{Insert Sign Laugh Here}"
+            content: "{Insert Sigh Laugh Here}"
         },
         {
             type: "Becca",
@@ -66,7 +66,7 @@ var quizQuestions = [
           },
           {
             type: "Brett",
-            content: "Yeah, they keeps all my secrets."
+            content: "Yeah, they keep all my secrets."
         },
         {
             type: "Becca",
