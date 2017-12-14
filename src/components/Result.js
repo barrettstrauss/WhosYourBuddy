@@ -15,6 +15,10 @@ function Result(props) {
     >
       <div>
         You buddy at work is <strong>{props.quizResult}</strong>!
+
+      <br/>
+
+      <button onClick={window.location.reload()}>Get A New Buddy</button>
       </div>
     </ReactCSSTransitionGroup>
   );
