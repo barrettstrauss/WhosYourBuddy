@@ -4,23 +4,23 @@ var quizQuestions = [
       answers: [
         {
             type: "Joey",
-            content: "Hell Yeah"
+            content: "Hell Yeah I like pancakes"
         },
         {
             type: "Mack",
-            content: "Joey Sucks"
+            content: "Yes, but hate eating them with Joey!"
         },
         {
             type: "Brett",
-            content: "I'm on a strict no fat diet"
+            content: "I'm on a strict no fat diet."
         },
         {
             type: "Becca",
-            content: "Yes, but thats a secret"
+            content: "Yes, but thats a secret....shhhhh!"
         },
         {
             type: "Sarah",
-            content: "Are the paleo?"
+            content: "Are they paleo?"
         }
       ]
   },
@@ -37,7 +37,7 @@ var quizQuestions = [
           },
           {
               type: "Mack",
-              content: "Only on a rainy day"
+              content: "Eh, every once in a while."
           },
           {
             type: "Brett",
@@ -45,71 +45,37 @@ var quizQuestions = [
         },
         {
             type: "Becca",
-            content: "NO, NO, NO"
+            content: "NO, NO, NO!"
         },
       ]
   },
   {
-      question: "Do you like who you sit next to in the office?",
+      question: "Do you enjoy who you sit next to in the office?",
       answers: [
           {
               type: "Joey",
-              content: "YESSSSS"
+              content: "YESSSSS!!!!!!!!!"
           },
           {
               type: "Mack",
-              content: "You suck Joey"
+              content: "You suck Joey!"
           },
           {
               type: "Sarah",
-              content: "Sure"
+              content: "Sure."
           },
           {
             type: "Brett",
-            content: "Yeah, she keeps all my secrets"
+            content: "Yeah, she keeps all my secrets."
         },
         {
             type: "Becca",
-            content: "Clark Kent is pretty cool"
+            content: "Clark Kent is pretty cool."
         },
         
 
       ]
   },
-//   {
-//       question: "Which of these games do you think is best?",
-//       answers: [
-//           {
-//               type: "Microsoft",
-//               content: "BioShock"
-//           },
-//           {
-//               type: "Nintendo",
-//               content: "The Legend of Zelda: Ocarina of Time"
-//           },
-//           {
-//               type: "Sony",
-//               content: "Final Fantasy VII"
-//           }
-//       ]
-//   },
-//   {
-//       question: "What console would you prefer to own?",
-//       answers: [
-//           {
-//               type: "Microsoft",
-//               content: "X-Box One"
-//           },
-//           {
-//               type: "Nintendo",
-//               content: "Wii U"
-//           },
-//           {
-//               type: "Sony",
-//               content: "Playstation 4"
-//           }
-//       ]
-//   }
 ];
 
 export default quizQuestions;
