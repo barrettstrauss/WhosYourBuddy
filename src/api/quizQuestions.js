@@ -29,7 +29,7 @@ var quizQuestions = [
       answers: [
           {
               type: "Sarah",
-              content: "Dad has a name?"
+              content: "Dad's real name is John?"
           },
           {
               type: "Joey",
@@ -66,11 +66,11 @@ var quizQuestions = [
           },
           {
             type: "Brett",
-            content: "Yeah, she keeps all my secrets."
+            content: "Yeah, they keeps all my secrets."
         },
         {
             type: "Becca",
-            content: "Clark Kent is pretty cool."
+            content: "They save the day."
         },
         
 
